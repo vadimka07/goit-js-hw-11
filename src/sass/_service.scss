@@ -1,0 +1,26 @@
+.timer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 30%;
+  margin: 5vw auto;
+  gap: 25px;
+
+  .field {
+    background-color: aquamarine;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    width: 125px;
+  }
+  .label {
+    display: block;
+  }
+}
+
+#date-selector {
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 1vw;
+}
