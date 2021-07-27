@@ -1,0 +1,2 @@
+.timer{display:grid;grid-template-columns:repeat(4,1fr);width:30%;margin:5vw auto;gap:25px}.timer .field{background-color:#7fffd4;border:1px solid #000;border-radius:5px;font-size:20px;text-align:center;padding:20px;width:125px}.timer .label{display:block}#date-selector{display:block;margin:0 auto 1vw}
+/*# sourceMappingURL=/goit-js-hw-11/src.7f7e6fd4.css.map */
